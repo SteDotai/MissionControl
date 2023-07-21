@@ -4,7 +4,7 @@ SYSTEM: VACUUM COMPUTER MODEL
 
 DOCUMENT: MISSION CONTROL 
 
-ModelHypothetical Intellectual Property Rights Document for the Vacuum Computer Model:
+Model Hypothetical Intellectual Property Rights Document for the Vacuum Computer Model:
 Introduction:
 This document outlines the theoretical framework for Intellectual Property (IP) rights within the Vacuum Computer Model. The model incorporates the Neuro Blockchain and various mechanisms for the exchange of information and energy to enhance rewards. The document provides a detailed overview of the components, abbreviations, and inter-exchange mechanisms within the model, including the biocybernetic loops.
 Components of the Vacuum Computer Model:
