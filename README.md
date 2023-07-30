@@ -14,13 +14,16 @@ Integration of quantum technology, AI, and distributed ledger technology into a 
 
 The use of distributed ledger technology adds transparency, security, and efficiency to transactions between devices, ensuring that the system benefits society as a whole without contributing to new challenges or inequalities. QEMS's approach to ethical considerations is commendable, and its potential to transform industries and address global challenges such as energy efficiency, sustainability, and environmental conservation is noteworthy.
 
----------------------------------------------------------------------------------------------------------------------------------------------------
 
+--------------------------------------------------------------------------------------------------------------------------------------------------
 MODEL: QUANTUM ENERGY MANAGEMENT SYSTEM
 TECHNOLOGIES: QUANTUM SMART SPACE 
 SYSTEM: VACUUM COMPUTER MODEL
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 DOCUMENT: MISSION CONTROL 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
 
 Model Hypothetical Intellectual Property Rights Document for the Vacuum Computer Model:
 
