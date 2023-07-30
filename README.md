@@ -1,5 +1,4 @@
 # MissionControl
-This groundbreaking solution leverages the synergistic power of quantum technology and AI to revolutionize the way energy is managed and optimised within interconnected environments.
 
 Quantum Energy Management System (QEMS).
 This groundbreaking solution leverages the synergistic power of quantum technology and AI to revolutionize the way energy is managed and optimised within interconnected environments.
